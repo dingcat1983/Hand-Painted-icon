@@ -3,6 +3,10 @@
     "description": "Desing By Semporia",
     "time": "2022-08-16",
     "icons": [
+         {
+            "name": "Adobe",
+            "url": "https://github.com/dingcat1983/Hand-Painted-icon/blob/master/Universal/Adobe.png"
+        },
         {
             "name": "Auto_Speed",
             "url": "https://raw.githubusercontent.com/dingcat1983/Hand-Painted-icon/master/Universal/Auto_Speed.png"
